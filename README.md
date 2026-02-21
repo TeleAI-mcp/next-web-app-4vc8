@@ -1,2 +1,3 @@
-# next-web-app-4vc8
-A repository to test GitHub automation for issue management
+# Next Web App 4Vc8
+
+A repository to test GitHub automation for issue management.
